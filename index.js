@@ -1,5 +1,7 @@
 console.log ("Hello, world!")
 
-function soma (primeiroNumero, segundoNumero) {
-    return primeiroNumero + segundoNumero;
+function multiplicacao (primeiroNumero, segundoNumero) {
+    return primeiroNumero * segundoNumero;
 }
+
+console.log (multiplicacao (231, 3))
