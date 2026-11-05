@@ -1,5 +1,7 @@
-console.log ("Hello, world!")
+console.log ("Hello, world!");
 
 function soma (primeiroNumero, segundoNumero) {
     return primeiroNumero + segundoNumero;
 }
+
+console.log (soma(2,5));
